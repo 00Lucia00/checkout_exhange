@@ -1,0 +1,4 @@
+from sedlar import Sedlar
+
+class ChangeCalculation:
+   
