@@ -1,4 +1,10 @@
 from sedlar import Sedlar
 
 class ChangeCalculation:
-   
+    
+    def calculate_change(pris, betalt):
+        total = betalt - pris
+        växel = {}
+       
+
+        return växel
