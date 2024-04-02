@@ -1,0 +1,1 @@
+This small consolapp is in swedish and will remake the very first app i ever created. The goal is to utilize a objectorigented way of coding and refaktor the code and show-case the way my coding skills have grown. 
