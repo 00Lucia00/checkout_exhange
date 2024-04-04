@@ -8,7 +8,7 @@ class Application:
         pris = float(input("Vad blev summan av dina varor?: "))
         betalt = float(input("Och vad betalade du?: "))
 
-        change = ChangeCalculator.calculate_change(pris, betalt)
+        change = ChangeCalculation.calculate_change(pris, betalt)
 
         print()
         print("Du ska få tillbaka:")
